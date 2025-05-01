@@ -35,7 +35,7 @@ With a strong foundation in both frontend and backend development, I’m constan
 
 ### 📝 Contact
 
-- 💼 LinkedIn: [Sahan Wijerathne]([www.linkedin.com/in/sahan-wije000](https://www.linkedin.com/in/sahan-wije000/))
+- 💼 LinkedIn: [Sahan Wijerathne]((https://www.linkedin.com/in/sahan-wije000/))
 - 📫 Email: [sahanvijerathna@gmail.com](mailto:sahanvijerathna@gmail.com)
 
 ---

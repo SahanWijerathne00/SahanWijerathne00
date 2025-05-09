@@ -43,11 +43,11 @@ With a strong foundation in both frontend and backend development, I’m constan
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahanwijerathne00&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanWijerathne00&show_icons=true&theme=radical" />
   <br>
   
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanwijerathne00&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWijerathne00&layout=compact&theme=radical" />
 </p>
 
 ---
